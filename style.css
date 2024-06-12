@@ -11,11 +11,15 @@
 float:right;
 border: 1px solid white;
 }
-.big_image
-{
-    width:100%;
-}
-#start ,#status
+
+#start ,#status, #restart
 {
     font-size:22px;
 }
+
+
+.modal-dialog
+{
+    width: 70%;
+}
+
